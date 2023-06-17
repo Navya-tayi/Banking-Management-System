@@ -1,5 +1,6 @@
 # Banking-Management-System
 This project is the simulation of a banking management and transactions system using C.
+
 Customers can:
 1. Create a new account
 2. View or search for their account details
