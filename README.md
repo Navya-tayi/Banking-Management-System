@@ -17,7 +17,8 @@ All the customer details and result after the transaction will be encrypted and 
 
 Many improvements can be made on this project such as adding two different components, one for the customer and one which only the bank can access for actions such as modifying the customer's details, viewing the decrypted files, etc.
 
-To execute the project, download all the files into a folder and run only the make file using the following command:
+To execute the project, download all the files into a folder and run only the make file using the following command: 
+
 mingw32-make -f prmake.mk
 
 and ENJOY!
